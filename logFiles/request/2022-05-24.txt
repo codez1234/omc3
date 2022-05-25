@@ -1,0 +1,672 @@
+
+2022-05-24 03:57:15.535852
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 03:59:38.272661
+user id is 2
+{}
+
+2022-05-24 04:08:00.258147
+user id is 2
+{}
+
+2022-05-24 04:08:47.383319
+user id is 2
+{}
+
+2022-05-24 04:10:07.098961
+user id is 2
+{}
+
+2022-05-24 04:11:21.051885
+user id is 2
+{}
+
+2022-05-24 04:12:29.951809
+user id is 2
+{}
+
+2022-05-24 04:13:34.672293
+user id is 2
+{}
+
+2022-05-24 09:25:23.635409
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 09:26:11.003552
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 09:27:08.933589
+user id is 2
+{'password': 'Skmd@905', 'password2': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:27:11.214879
+user id is 2
+{'password': 'Skmd@905', 'password2': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:27:42.728811
+user id is 2
+{'password': 'Skmd@905', 'password2': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:27:43.598083
+user id is 2
+{'password': 'Skmd@905', 'password2': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:27:47.328755
+user id is 2
+{'password': 'Skmd@905', 'password2': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:28:28.141250
+user id is 2
+{'password': 'Skmd@905', 'password2': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:28:29.823812
+user id is 2
+{'password': 'Skmd@905', 'password2': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:52:35.632129
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 09:53:02.120472
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:54:03.721593
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:54:30.133830
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:55:54.508654
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:59:17.971398
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:59:20.554283
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:59:22.261308
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 09:59:22.589843
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:01:40.544838
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:01:41.834170
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:01:42.368798
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:01:42.738139
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:02:24.455043
+user id is 2
+{'fld_attendance_status': 'current', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:03:23.862141
+user id is 2
+{'fld_attendance_status': 'ci', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:04:29.361861
+user id is 2
+{'fld_attendance_status': 'ci', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123'}
+
+2022-05-24 10:05:19.662058
+user id is 2
+{'fld_attendance_status': 'ci', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 10:07:07.726825
+user id is 2
+{'fld_attendance_status': 'cu', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_is_delete': 'True'}
+
+2022-05-24 10:07:30.077081
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_is_delete': 'True'}
+
+2022-05-24 10:10:22.718280
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_is_delete': 'True'}
+
+2022-05-24 10:17:13.275289
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 10:17:33.239963
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 10:17:56.483735
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 10:30:00.700617
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 10:30:11.525105
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 10:30:20.561671
+user id is 2
+{'fld_attendance_status': 'cr', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 10:33:49.074969
+user id is 2
+{'fld_attendance_status': 'cr', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 10:34:22.870935
+user id is 2
+{'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 11:02:56.892880
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 11:03:30.528274
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_is_delete': 'True'}
+
+2022-05-24 11:04:37.075182
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890'}
+
+2022-05-24 11:04:54.125552
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'ip_address': '122.163.76.79'}
+
+2022-05-24 11:05:50.278086
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 11:07:28.158978
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 11:08:21.178690
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:09:38.936714
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:09:40.708020
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:13:54.654268
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:13:55.451394
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:16:53.803013
+user id is 2
+{'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:17:00.568732
+user id is 2
+{'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:17:01.526625
+user id is 2
+{'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 11:17:30.960040
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:31:33.014933
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 12:31:58.331567
+user id is 2
+{'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:32:00.296091
+user id is 2
+{'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:32:01.060806
+user id is 2
+{'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:32:08.349222
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:36:32.864229
+user id is 2
+{'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:37:30.784584
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:37:42.579704
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:37:43.964618
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:37:44.706308
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:37:45.043368
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:37:47.254883
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:38:37.944701
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:38:38.919230
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:41:37.932085
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:41:38.909038
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:42:37.087208
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:49:52.972196
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:52:03.485630
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 12:52:21.448668
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 12:59:42.184269
+user id is 2
+{'fld_attendance_status': 'ckjkjr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 13:03:28.671161
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 13:04:21.052724
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 13:04:29.569777
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 13:04:31.916380
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10'}
+
+2022-05-24 13:05:11.000103
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:06:06.345877
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:06:07.606415
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:06:08.231466
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:06:08.815361
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:06:09.147263
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:06:23.717304
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:06:24.747604
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:07:28.927990
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:07:47.210827
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 13:08:48.739873
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79'}
+
+2022-05-24 13:08:53.395519
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:09:23.713714
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:13:00.217513
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 13:13:22.245819
+user id is 2
+{'fld_attendance_status': 'crklkkk', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:13:36.349983
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:13:45.234614
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1'}
+
+2022-05-24 13:15:18.390712
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '55.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:15:28.310302
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '5455.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:16:02.585900
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '1005.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:16:12.707372
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '12.555', 'fld_longitude': '105.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:16:32.261592
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '152.555', 'fld_longitude': '105.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:16:39.843202
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '2.555', 'fld_longitude': '105.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:17:00.678172
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '2.55511221222', 'fld_longitude': '105.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:17:01.871665
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '2.55511221222', 'fld_longitude': '105.4554', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:17:07.458557
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '2.55511221222', 'fld_longitude': '105.455452545454151', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:18:20.234551
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '25', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 13:18:28.418374
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11225', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:34:04.232549
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 15:34:23.371570
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11225', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:34:51.075293
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:35:23.182998
+user id is 2
+{'fld_attendance_status': 'cr', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:35:27.608262
+user id is 2
+{'fld_attendance_status': 'cr', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:35:29.080637
+user id is 2
+{'fld_attendance_status': 'cr', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:35:33.747021
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11225', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:36:23.804761
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11225', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:37:22.600402
+user id is 2
+{'fld_attendance_status': 'cr', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:37:35.014094
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11225', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:47:15.545253
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11225', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:47:28.618946
+user id is 2
+{'fld_attendance_status': 'cr', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:48:45.876428
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:48:52.829079
+user id is 2
+{'fld_attendance_status': 'crlll', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:55:05.044354
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 15:55:24.881305
+user id is 2
+{'fld_attendance_status': 'crlll', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:55:32.247310
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:55:54.541892
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:', 'fld_date': '202'}
+
+2022-05-24 15:56:15.685477
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.1', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:59:01.034596
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.1', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:59:20.318096
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.1', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:59:26.830339
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:59:33.100875
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 15:59:42.768484
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:01:28.097943
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:01:32.365271
+user id is 2
+{'fld_attendance_status': 'c4r', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:01:40.360087
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:02:18.566047
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:04:35.524853
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:04:36.835618
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:04:55.319049
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:05:56.369950
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:06:12.548800
+user id is 2
+{'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:06:19.674573
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:27:53.722149
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 16:28:19.923992
+user id is 2
+{'fld_attendance_status': 'pr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:28:46.136593
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:44:05.510012
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:44:11.908387
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11222', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:44:20.428347
+user id is 2
+{'fld_attendance_status': 'r', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:44:31.080725
+user id is 2
+{'fld_attendance_status': 'r1', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:44:39.663386
+user id is 2
+{'fld_attendance_status': 'ci', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:44:49.945429
+user id is 2
+{'fld_attendance_status': 'ci', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:44:58.721793
+user id is 2
+{'fld_attendance_status': 'ci', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 16:49:10.152359
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 16:50:48.448041
+user id is 2
+{'fld_attendance_status': 'ci', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 17:05:52.425321
+user id is 2
+{'fld_attendance_status': 'cr', 'fld_latitude': '11', 'fld_longitude': '10', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '122.163.76.79', 'fld_time': '10:10', 'fld_date': '2022-10-15'}
+
+2022-05-24 17:50:11.766845
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 17:58:55.358205
+user id is 2
+{}
+
+2022-05-24 18:00:59.203500
+user id is 2
+{}
+
+2022-05-24 18:01:45.925094
+user id is 2
+{}
+
+2022-05-24 18:10:34.893816
+user id is None
+{'email_or_phone': 'skmd@gmail.com', 'password': 'Skmd@9055', 'device_model': 'vivo s1', 'imei_number': '1234567890', 'ip_address': '123456'}
+
+2022-05-24 18:13:44.911871
+user id is 2
+{}
+
+2022-05-24 18:14:11.564135
+user id is 2
+{}
+
+2022-05-24 18:15:12.958285
+user id is 2
+{}

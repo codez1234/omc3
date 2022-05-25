@@ -1,0 +1,604 @@
+
+2022-05-24 03:57:15.659830
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzY1ODM1LCJpYXQiOjE2NTMzNjQ2MzUsImp0aSI6IjBjMjkzOGYwZGU4MjQzZDFhYjFiMWY3MjU1ZDE3NmMxIiwidXNlcl9pZCI6Mn0.g19RmXWS6ttGQHsjGel_xHtQJWgzFH7QhXVoONwRWw8', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ1MTAzNSwiaWF0IjoxNjUzMzY0NjM1LCJqdGkiOiIyMDM2ODI4MjYxMmE0ODc2ODg1ZTgyNzg5YWZlNDFjZSIsInVzZXJfaWQiOjJ9.q6HuCLo2kvkRaj7JSH1UQ4JFsypqVM3ld6rch4q3EMc'}}}
+
+2022-05-24 03:59:38.274851
+user id is 2
+{'email': 'skmd@gmail.com', 'mobile': '8434939102', 'first_name': 'shubham', 'last_name': 'kumar', 'address': 'rahamgang', 'check_in_time': '06:00:00', 'check_out_time': '18:00:00', 'last_login': None, 'created_datetime': None, 'user_level': 2}
+
+2022-05-24 04:10:07.101029
+user id is 2
+{'email': 'skmd@gmail.com', 'mobile': '8434939102', 'first_name': 'shubham', 'last_name': 'kumar', 'address': 'rahamgang', 'check_in_time': '06:00:00', 'check_out_time': '18:00:00', 'last_login': None, 'created_datetime': None, 'user_level': 2}
+
+2022-05-24 04:11:21.053622
+user id is 2
+{'email': 'skmd@gmail.com', 'mobile': '8434939102', 'first_name': 'shubham', 'last_name': 'kumar', 'address': 'rahamgang', 'check_in_time': '06:00:00', 'check_out_time': '18:00:00', 'last_login': None, 'created_datetime': None, 'user_level': 2}
+
+2022-05-24 04:13:34.673894
+user id is 2
+{'status': 'success', 'message': 'user data', 'data': {'email': 'skmd@gmail.com', 'mobile': '8434939102', 'first_name': 'shubham', 'last_name': 'kumar', 'address': 'rahamgang', 'check_in_time': '06:00:00', 'check_out_time': '18:00:00', 'last_login': None, 'created_datetime': None, 'user_level': 2}}
+
+2022-05-24 09:25:23.751040
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzg1NTIzLCJpYXQiOjE2NTMzODQzMjMsImp0aSI6ImNmYjAwY2FiNGM2YzRjZDQ4MWRmMDM2NDc1NzIyMDY1IiwidXNlcl9pZCI6Mn0.lsVgxlomaegRAjtJrbLuPlWlkozme8SAsm7CDJceegs', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ3MDcyMywiaWF0IjoxNjUzMzg0MzIzLCJqdGkiOiJjYTJhZDI0YjkxZjY0OTBlOTg4MzE3YmQ5NDk0M2UzYSIsInVzZXJfaWQiOjJ9.dupEyBHfrI27A4Niey_jeFJ2ihuMsmapWHHX3gXS7iw'}}}
+
+2022-05-24 09:26:11.107027
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzg1NTcxLCJpYXQiOjE2NTMzODQzNzEsImp0aSI6Ijc1OWM5YWFlY2VmODQzOGE4ZDMyZGUxMDAzNTI3NTVlIiwidXNlcl9pZCI6Mn0.lLLmtX50nJpAnE9z3SnVqduG2rUmxFRv97EhV9Ruppw', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ3MDc3MSwiaWF0IjoxNjUzMzg0MzcxLCJqdGkiOiIzOWY0ZDM1ZDIwYjY0NjgwODM3ODYyZmRhYTc3YWY0NyIsInVzZXJfaWQiOjJ9.GRPm_JA9NYpL3t08tx_0vi8t3c5FGk_ghVaDzOyAfQg'}}}
+
+2022-05-24 09:52:35.746102
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzg3MTU1LCJpYXQiOjE2NTMzODU5NTUsImp0aSI6IjRmY2I0YjI2M2M2ZTRkNThhN2RiZDM4YjU3ODI3NmRhIiwidXNlcl9pZCI6Mn0.ndPq8Ews1qwoCe6_GwJVkLrR6t6g6d1O2HC9Gw8bPxs', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ3MjM1NSwiaWF0IjoxNjUzMzg1OTU1LCJqdGkiOiJhMjIyMTE1MjM1NjQ0OTBlYjM4MWZkZWY4MTQ2NjM1OCIsInVzZXJfaWQiOjJ9._FUw-iWPLMpJMrQNBo8KJYyM-pJMHfgE3AeS2palM9g'}}}
+
+2022-05-24 09:53:02.121500
+user id is 2
+{'status': 'error', 'message': 'your device information and imei number does not match'}
+
+2022-05-24 09:54:03.722782
+user id is 2
+{'status': 'error', 'message': 'your device information and imei number does not match'}
+
+2022-05-24 09:54:30.134859
+user id is 2
+{'status': 'error', 'message': 'your device information and imei number does not match'}
+
+2022-05-24 10:01:40.549013
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='"current" is not a valid choice.', code='invalid_choice')], 'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 10:01:41.837227
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='"current" is not a valid choice.', code='invalid_choice')], 'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 10:01:42.372648
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='"current" is not a valid choice.', code='invalid_choice')], 'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 10:01:42.741955
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='"current" is not a valid choice.', code='invalid_choice')], 'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 10:02:24.459040
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='"current" is not a valid choice.', code='invalid_choice')], 'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 10:03:23.865324
+user id is 2
+{'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 10:04:29.365237
+user id is 2
+{'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 10:05:19.669788
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:07:07.729603
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='"cu" is not a valid choice.', code='invalid_choice')]}
+
+2022-05-24 10:07:30.094116
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:10:22.735485
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:17:13.382692
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzg4NjMzLCJpYXQiOjE2NTMzODc0MzMsImp0aSI6ImE2N2IzMjU1ZGIyMzRmMzhhZmY5N2YzOWJlZjUyYTE4IiwidXNlcl9pZCI6Mn0.umOFupNXiQBjGfgRyQ6kdk-q8t9ikcsaPBwUKMVi4_E', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ3MzgzMywiaWF0IjoxNjUzMzg3NDMzLCJqdGkiOiJlM2M5NTI1YTMyMTQ0NzJiOWRmMzA1NjU2OTYxOGZiYyIsInVzZXJfaWQiOjJ9.2xVbisSUfEX9RzAJWqu4TSa44TONOiv1VaYAZbuvNFw'}}}
+
+2022-05-24 10:17:33.259739
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:17:56.489142
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:30:00.716054
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:30:11.532586
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:30:20.576564
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:33:49.114290
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 10:34:22.887182
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:02:57.013003
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzkxMzc3LCJpYXQiOjE2NTMzOTAxNzcsImp0aSI6IjIxMzc0MmIyODc4ZTQ4YTNhZGJiMzUxNTNjM2QzNjI3IiwidXNlcl9pZCI6Mn0.KFZGnJSjAfrMdLxqZ-uq2MjRunBir4kwrqKsuhbFXNQ', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ3NjU3NywiaWF0IjoxNjUzMzkwMTc3LCJqdGkiOiI5Yjc5NjY5ODE0MmI0ODU1OTE0NmQ5NTgzODcxZjRkMyIsInVzZXJfaWQiOjJ9.iTaOGs7KTOni7kW1CxZOPscYAfYSkJ3nGW-qY_GZnEo'}}}
+
+2022-05-24 11:03:30.541373
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:04:37.076195
+user id is None
+{'status': 'error', 'message': 'please provide device ip address'}
+
+2022-05-24 11:04:54.127147
+user id is 2
+{'status': 'error', 'message': 'your device information and imei number does not match'}
+
+2022-05-24 11:05:50.293959
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:07:28.202655
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:08:21.194522
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:09:38.952631
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:09:40.723110
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:13:54.669689
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:13:55.458392
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:16:53.808209
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:17:00.583530
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:17:01.542320
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 11:17:30.967563
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:31:33.127489
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzk2NjkzLCJpYXQiOjE2NTMzOTU0OTMsImp0aSI6IjFlMmZlMTY0OWQxZTQxODFiYzAzYjNmMjc4NTBlZjc2IiwidXNlcl9pZCI6Mn0.Li5UOmdWrMlT7vOnvwizHRIV3i1b3u-vo_azz0kH96Q', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ4MTg5MywiaWF0IjoxNjUzMzk1NDkzLCJqdGkiOiJlZDY2YjdjOTg3OGU0NDk1YjFkZDkwMTY4Y2VkMDNlZSIsInVzZXJfaWQiOjJ9.vpaS8bb0LQ_k9kNgINkjj0ISvhPo91Ze0_1LJWQlCM0'}}}
+
+2022-05-24 12:31:58.347560
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:32:00.310684
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:32:01.065938
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:32:08.364285
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:36:32.867210
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 12:37:30.802018
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:37:42.598842
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:37:43.981398
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:37:44.718373
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:37:45.048206
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:37:47.270628
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:38:37.951554
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:38:38.941362
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:41:37.938411
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:41:38.924315
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:42:37.102450
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:52:03.589243
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzk3OTIzLCJpYXQiOjE2NTMzOTY3MjMsImp0aSI6Ijg5MzQxNmZkOGJjZDQ0OGI5NDYwNGU3YmZjNjIzYjVkIiwidXNlcl9pZCI6Mn0.BTSPwnh5H-M3neyHEkpo-YwQWAXNUYT7kIE45AQSErI', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ4MzEyMywiaWF0IjoxNjUzMzk2NzIzLCJqdGkiOiJjYmFjM2ZjMGEwMGE0YTc3YjNiZTM2Y2E1NGM5NjNjNSIsInVzZXJfaWQiOjJ9.pSgDfb_rrFXlCDbLRxGfyWx9z2CzB0NbWUEjf9_zXxI'}}}
+
+2022-05-24 12:52:21.465221
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 12:59:42.188449
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide fld_attendance_status', code='invalid')]}
+
+2022-05-24 13:03:28.673825
+user id is 2
+{'fld_date': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 13:04:21.056258
+user id is 2
+{'fld_date': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 13:04:29.573048
+user id is 2
+{'fld_date': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 13:04:31.918925
+user id is 2
+{'fld_date': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 13:05:11.015217
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:06:06.362864
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:06:07.621295
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:06:08.236347
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:06:08.821644
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:06:09.152093
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:06:23.723260
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:06:24.762886
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:07:28.942340
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:07:47.213240
+user id is 2
+{'fld_date': [ErrorDetail(string='This field is required.', code='required')], 'fld_time': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 13:08:48.743597
+user id is 2
+{'fld_date': [ErrorDetail(string='This field is required.', code='required')], 'fld_time': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 13:08:53.412036
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:09:23.729444
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:13:00.316277
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzk5MTgwLCJpYXQiOjE2NTMzOTc5ODAsImp0aSI6IjI2ZTg5NjEwNWE5MTQ0MDQ5MzBiNzM4MDNjOWU4ZGI0IiwidXNlcl9pZCI6Mn0.O_88340mZHzYP9lJHy-RUhMl86SRqDV7Gzy37BH4LS0', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ4NDM4MCwiaWF0IjoxNjUzMzk3OTgwLCJqdGkiOiI0ZTFiZjMxYmEyNjM0MGNkOWU1NGUwMzVhOTkwNGZmMiIsInVzZXJfaWQiOjJ9.ntfNiXLi1kqYBlWx1J4og1hIYLOpPUYUpRsmYsWuHBk'}}}
+
+2022-05-24 13:13:22.248918
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='"crklkkk" is not a valid choice.', code='invalid_choice')]}
+
+2022-05-24 13:13:36.366536
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:13:45.236390
+user id is None
+{'status': 'error', 'message': 'please provide device ip address'}
+
+2022-05-24 13:15:18.395765
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:15:28.313903
+user id is 2
+{'fld_longitude': [ErrorDetail(string='Ensure this value is less than or equal to 180.', code='max_value')]}
+
+2022-05-24 13:16:02.588806
+user id is 2
+{'fld_longitude': [ErrorDetail(string='Ensure this value is less than or equal to 180.', code='max_value')]}
+
+2022-05-24 13:16:12.749527
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:16:32.265830
+user id is 2
+{'fld_latitude': [ErrorDetail(string='Ensure this value is less than or equal to 90.', code='max_value')]}
+
+2022-05-24 13:16:39.858890
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:17:00.693258
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:17:01.887589
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:17:07.474048
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:18:20.249880
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 13:18:28.421340
+user id is 2
+{'fld_latitude': [ErrorDetail(string='Ensure this value is less than or equal to 90.', code='max_value')]}
+
+2022-05-24 15:34:04.334019
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzNDA3NjQ0LCJpYXQiOjE2NTM0MDY0NDQsImp0aSI6IjUyOWY2YmFkY2QzMjRjNTY4NTc1MTQxYTE2OTdjMGY1IiwidXNlcl9pZCI6Mn0.JJZpNd2oLMcvSwZQnZaGPt-tkHqzEi45aVym9lgfUAY', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ5Mjg0NCwiaWF0IjoxNjUzNDA2NDQ0LCJqdGkiOiIzZjQ4MDlhYjdiOWY0MjkwOTI4YmY2NWQwYzFkNTAxZiIsInVzZXJfaWQiOjJ9.M1UIqfiWvEsCY84y29smypng2zyiT0RNasaiHpPuG0o'}}}
+
+2022-05-24 15:34:23.374942
+user id is 2
+{'fld_latitude': [ErrorDetail(string='Ensure this value is less than or equal to 90.', code='max_value')]}
+
+2022-05-24 15:34:51.081495
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:35:23.197719
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:35:27.652457
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:35:29.095211
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:35:33.750898
+user id is 2
+{'fld_latitude': [ErrorDetail(string='Ensure this value is less than or equal to 90.', code='max_value')]}
+
+2022-05-24 15:36:23.819565
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:37:22.603426
+user id is 2
+{'fld_latitude': [ErrorDetail(string='This field is required.', code='required')], 'fld_longitude': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 15:37:35.018977
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:47:15.547824
+user id is 2
+{'fld_latitude': [ErrorDetail(string='Ensure this value is less than or equal to 90.', code='max_value')]}
+
+2022-05-24 15:47:28.622510
+user id is 2
+{'fld_latitude': [ErrorDetail(string='This field is required.', code='required')], 'fld_longitude': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 15:48:45.893448
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:48:52.833387
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:55:05.145657
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzNDA4OTA1LCJpYXQiOjE2NTM0MDc3MDUsImp0aSI6IjFjZmExZTQ1ZDQ1NjQ1ZjliMDY1MjlmNTg0NGQ0MGQ0IiwidXNlcl9pZCI6Mn0.x13S5px6GHAyBnHyaq6lCJtBEogqVOEABO5I9j-g7GA', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ5NDEwNSwiaWF0IjoxNjUzNDA3NzA1LCJqdGkiOiI2NTk0MmE0YTliZGQ0Yjk3OGVkMWU1NDBhOWFkMjc5ZiIsInVzZXJfaWQiOjJ9.UhIkKDfh3KQsbh7HFRvgxuR-7fjCXkmE2Nae5m64N68'}}}
+
+2022-05-24 15:55:24.884259
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 15:55:32.263831
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:55:54.545457
+user id is 2
+{'fld_date': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')], 'fld_time': [ErrorDetail(string='Time has wrong format. Use one of these formats instead: hh:mm[:ss[.uuuuuu]].', code='invalid')]}
+
+2022-05-24 15:56:15.700182
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:59:01.049418
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:59:20.320745
+user id is 2
+{'fld_ip_address': [ErrorDetail(string='Enter a valid IPv4 or IPv6 address.', code='invalid')]}
+
+2022-05-24 15:59:26.845838
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 15:59:33.102337
+user id is None
+{'status': 'error', 'message': 'please provide device ip address'}
+
+2022-05-24 15:59:42.783475
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:01:28.114666
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:01:32.367532
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 16:01:40.376269
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:02:18.585012
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:04:35.540153
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:04:36.841826
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:04:55.322821
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 16:05:56.372527
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 16:06:12.551598
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='This field is required.', code='required')]}
+
+2022-05-24 16:06:19.676849
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 16:27:53.821742
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzNDEwODczLCJpYXQiOjE2NTM0MDk2NzMsImp0aSI6Ijc1MTIxMDQ2OTRmOTRjZDViZDA4ZmQ2MmNjNmU3NDUwIiwidXNlcl9pZCI6Mn0.BKgxBPolP3l2q0RxImB9iLdxzF8HvXFw3zi6aYKtyb4', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ5NjA3MywiaWF0IjoxNjUzNDA5NjczLCJqdGkiOiI4NTI4ZmU2NmM3Y2M0NzY2YWExMGNiOGUyOWQ4MmI5YSIsInVzZXJfaWQiOjJ9.NAiC-wZstj6D-N5WlkCCvio5a9MRUrNzMK9VKim9Xe0'}}}
+
+2022-05-24 16:28:19.926420
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 16:28:46.153067
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:44:05.553665
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:44:11.910859
+user id is 2
+{'fld_latitude': [ErrorDetail(string='Ensure this value is less than or equal to 90.', code='max_value')]}
+
+2022-05-24 16:44:20.430685
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 16:44:31.083712
+user id is 2
+{'fld_attendance_status': [ErrorDetail(string='please provide valid fld_attendance_status', code='invalid')]}
+
+2022-05-24 16:44:39.678428
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:44:49.946853
+user id is 2
+{'status': 'error', 'message': 'your device information and imei number does not match'}
+
+2022-05-24 16:44:58.742838
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 16:49:10.253874
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzNDEyMTUwLCJpYXQiOjE2NTM0MTA5NTAsImp0aSI6ImUzOTJjY2NkNGMzYTRlNDFhYjQzODE2OTlkZjMxNWJiIiwidXNlcl9pZCI6Mn0.cISjGFYtWUjDXHKunLgaZuuT3ZiYNkvTU2ORN2w8xyk', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzQ5NzM1MCwiaWF0IjoxNjUzNDEwOTUwLCJqdGkiOiJmNGNjNWUxZjM0MDg0ODkyOTk0Mjg1NmQ4YmMzYzcyNiIsInVzZXJfaWQiOjJ9.hMh3tEp_mtNs0myLsQbd6M5O7AjUgrhk8RAjtEtpQqg'}}}
+
+2022-05-24 16:50:48.463337
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 17:05:52.430732
+user id is 2
+{'status': 'success', 'message': 'Data Created'}
+
+2022-05-24 17:50:11.868569
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzNDE1ODExLCJpYXQiOjE2NTM0MTQ2MTEsImp0aSI6ImI2Yjc3YjAwYzljMjQyMTU5ZWNjZmJlZTM3ODMzNTRjIiwidXNlcl9pZCI6Mn0.RZhYKmzzlUnlIcMQHTWhKgHszUwlL5eTNxNHk6-OECA', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzUwMTAxMSwiaWF0IjoxNjUzNDE0NjExLCJqdGkiOiIyMjBlZTJlZGJkNWY0Y2Y3YjQxMjlkOTFiN2FmZDNiYSIsInVzZXJfaWQiOjJ9.cfWK69A9K2EjhdXiUnIHUMTz5vTFbEyTEMjzbDa8uDw'}}}
+
+2022-05-24 17:58:55.361968
+user id is 2
+{'status': 'success', 'message': 'user sites', 'data': {'fld_sites': [OrderedDict([('fld_site_type', 'abc'), ('fld_site_name', 'dbg'), ('fld_state', 1), ('fld_district', 'dbg'), ('fld_latitude', '52.123145'), ('fld_longitude', '89.123456')]), OrderedDict([('fld_site_type', 'abc'), ('fld_site_name', 'dbg'), ('fld_state', 1), ('fld_district', 'dbg'), ('fld_latitude', '52.12355256'), ('fld_longitude', '89.1234585')])], 'fld_assigned_date': '2022-05-23T04:51:33Z'}}
+
+2022-05-24 18:00:59.206441
+user id is 2
+{'status': 'success', 'message': 'user sites', 'data': {'fld_sites': [OrderedDict([('fld_site_type', 'abc'), ('fld_site_name', 'dbg'), ('fld_state', 1), ('fld_district', 'dbg'), ('fld_latitude', '52.123145'), ('fld_longitude', '89.123456')])], 'fld_assigned_date': '2022-05-23T04:51:33Z'}}
+
+2022-05-24 18:01:45.926361
+user id is 2
+{'status': 'success', 'message': 'user sites', 'data': {'fld_sites': [], 'fld_assigned_date': '2022-05-23T04:51:33Z'}}
+
+2022-05-24 18:10:34.997208
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzNDE3MDM0LCJpYXQiOjE2NTM0MTU4MzQsImp0aSI6ImM3NGFmZGY1MmQ2MjQ4OWQ5ZDI0NGIzNDE4ZWE3ODY4IiwidXNlcl9pZCI6Mn0.P7eVkmkl3YZ1Gh8usHMDFJdk5iG1Btd8QLEiefc7T5k', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzUwMjIzNCwiaWF0IjoxNjUzNDE1ODM0LCJqdGkiOiI5MGFhODJmYTIyNzA0YWFiYWQzMTc0NjkyMGRjYTBlMyIsInVzZXJfaWQiOjJ9.wKAmC3DN0fb7qc-yjH9sMyF6FEpcKD1k4SAU_D3uTTE'}}}
+
+2022-05-24 18:14:11.567065
+user id is 2
+{'status': 'success', 'message': 'user sites', 'data': {'fld_sites': [OrderedDict([('fld_site_type', 'abc'), ('fld_site_name', 'dbg'), ('fld_state', 1), ('fld_district', 'dbg'), ('fld_latitude', '52.1235522'), ('fld_longitude', '89.1234885')])], 'fld_assigned_date': '2022-05-23T04:51:33Z'}}
+
+2022-05-24 18:15:12.961908
+user id is 2
+{'status': 'success', 'message': 'user sites', 'data': {'fld_sites': [OrderedDict([('fld_site_type', 'abc'), ('fld_site_name', 'dbg'), ('fld_state', 1), ('fld_district', 'dbg'), ('fld_latitude', '52.1235522'), ('fld_longitude', '89.1234885')])], 'fld_assigned_date': '2022-05-23T04:51:33Z'}}

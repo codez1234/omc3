@@ -1,0 +1,40 @@
+
+2022-05-23 11:08:44.810347
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzA1MzI0LCJpYXQiOjE2NTMzMDQxMjQsImp0aSI6ImFmYmMxN2RiM2EwMTRhNWQ4NzZmNmRmYTU5NTNhNGQ1IiwidXNlcl9pZCI6Mn0.3WQ-LYodISZlA5ZEV3Yp5C7Hii2YxmHRD-bKKQ3ECrs', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzM5MDUyNCwiaWF0IjoxNjUzMzA0MTI0LCJqdGkiOiJlYjkyNTk5OGIxNTI0YjJhODExMTk3NzQzOGYyN2Q4ZiIsInVzZXJfaWQiOjJ9.uhS-_MM_UkYY12HFQn-EReDBehDfEn6-FqrQ0RO4A1w'}}}
+
+2022-05-23 11:10:01.910362
+user id is 2
+{'email': 'skmd@gmail.com', 'mobile': '8434939102', 'first_name': 'shubham', 'last_name': 'kumar', 'address': 'rahamgang', 'check_in_time': '06:00:00', 'check_out_time': '18:00:00', 'last_login': None, 'created_datetime': None, 'user_level': 2}
+
+2022-05-23 12:14:43.274764
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzA5MjgzLCJpYXQiOjE2NTMzMDgwODMsImp0aSI6IjNiMGY1ZDg5ZmI3NzRhY2I4NTcxNTY4ODYwNmFlN2RlIiwidXNlcl9pZCI6Mn0.iUf-ZChUEJKncOfRxAERfH1HWRq0awHHVp72PA3yG3M', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzM5NDQ4MywiaWF0IjoxNjUzMzA4MDgzLCJqdGkiOiI4YTUyM2YxMzM0ZWU0NTAxOWY4MmU2N2I1ZTAwMDgyOSIsInVzZXJfaWQiOjJ9.6rEuZTBeSjvLn9gjPDzkRqU55KFL8x8d8027yE2dZtY'}}}
+
+2022-05-23 12:37:55.023907
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzEwNjc1LCJpYXQiOjE2NTMzMDk0NzUsImp0aSI6IjljOTY0NjllOGIwMjRjZTRhM2JkZGIwZGZjMzZhZTVjIiwidXNlcl9pZCI6Mn0.0QD8zgzCeI86vEhTrfczLfUbBE8SL29WeS9-MCnvLW4', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzM5NTg3NSwiaWF0IjoxNjUzMzA5NDc1LCJqdGkiOiI5MDgzMTQ2MjVkMzA0MWI0YTZjYTE4MDE2OWZjNGNkZCIsInVzZXJfaWQiOjJ9.H43-NTgT4nbeRsl4QIpORI-123qXgunZ8nazKd5aLfQ'}}}
+
+2022-05-23 12:39:33.290623
+user id is 2
+Password Changed Successfully
+
+2022-05-23 12:43:32.766085
+user id is 2
+Password Changed Successfully
+
+2022-05-23 12:47:35.446394
+user id is 2
+{'status': 'error', 'message': 'your device information and imei number does not match'}
+
+2022-05-23 12:50:27.380474
+user id is 2
+{'status': 'success', 'message': 'Login Success', 'data': {'token': {'access': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzMzExNDI3LCJpYXQiOjE2NTMzMTAyMjcsImp0aSI6ImNiM2VlN2YzYzFmODRkZjg4MWFlM2EwNGRkZDU1MzFmIiwidXNlcl9pZCI6Mn0.4AJ5WeKjxU2YYViMrA0j6Mclxqvbg6hTimAZGJYG0Ck', 'refresh': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1MzM5NjYyNywiaWF0IjoxNjUzMzEwMjI3LCJqdGkiOiI1ZTM5N2UyN2RiYmM0ZDRmYmM1YjU5NTllYTdlOWEwYyIsInVzZXJfaWQiOjJ9._CCcopJGq45RryGswKxIgv2GP9jezg6RyLcFMARgbK8'}}}
+
+2022-05-23 12:50:47.995542
+user id is 2
+{'email': 'skmd@gmail.com', 'mobile': '8434939102', 'first_name': 'shubham', 'last_name': 'kumar', 'address': 'rahamgang', 'check_in_time': '06:00:00', 'check_out_time': '18:00:00', 'last_login': None, 'created_datetime': None, 'user_level': 2}
+
+2022-05-23 12:51:04.866822
+user id is 2
+Password Changed Successfully
