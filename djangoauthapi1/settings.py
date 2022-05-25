@@ -88,7 +88,7 @@ WSGI_APPLICATION = 'djangoauthapi1.wsgi.application'
 #         },
 #         'NAME': 'omc_test',
 #         'USER': 'omc',
-#         'PASSWORD': 'Test1234567$$',
+#         'PASSWORD': '',
 #         'HOST': 'localhost',
 #         'PORT': '3306',
 #     }
